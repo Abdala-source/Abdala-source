@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdala-source
+- 👋 Hi, I’m @Abdala
 - 👀 I’m interested in à la programmation, au réseau et système informatique
 - 🌱 I’m currently learning programmation
 - 💞️ I’m looking to collaborate on des projets de développement
